@@ -29,7 +29,7 @@
       <br/>
       찬미
       <br/>
-      <a href="https://github.com/dkmqflx"><b>@Dohyun Kim</b></a> 
+      <a href="https://github.com/dkmqflx"><b>@kunmi0422</b></a> 
     </td>
   
   </tr>
