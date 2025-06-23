@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  [활동 보러가기](https://github.com/roxie-dev/AWS-TextBook-Study/discussions/1)
+  [활동 보러가기](https://github.com/roxie-dev/Ji-Lag-Bang/discussions)
 
 </div>
 
