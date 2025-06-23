@@ -25,9 +25,9 @@
       <a href="https://github.com/MinJeung-Kim"><b>@MinJeung-Kim</b></a> 
     </td> 
     <td align="center"> 
-      <img src="https://avatars.githubusercontent.com/u/42763164?v=4" width="100px;" alt="찬미"/>    
+      <img src="https://avatars.githubusercontent.com/u/42763164?v=4" width="100px;" alt="인찬미"/>    
       <br/>
-      찬미
+      인찬미
       <br/>
       <a href="https://github.com/dkmqflx"><b>@kunmi0422</b></a> 
     </td>
